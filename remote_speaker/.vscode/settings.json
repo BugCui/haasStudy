@@ -1,0 +1,13 @@
+{
+    "haasStudio.name": "remote_speaker",
+    "haasStudio.hardware.board": "haaseduk1",
+    "haasStudio.appType": "python",
+    "haasStudio.solutionName": "remote_speaker",
+    "haasStudio.projectDir": "/Users/cuishenpeng/Desktop/2_workspace/4_work_study/haas3",
+    "haasStudio.comPort": "/dev/cu.usbserial-AU03OT6G",
+    "haasStudio.hardware.baudrate": 1500000,
+    "aliosStudio.name": "test_py_engine_demo",
+    "aliosStudio.comPort": "/dev/cu.usbserial-AU03OT6G",
+    "aliosStudio.hardware.baudrate": "1500000",
+    "aliosStudio.hardware.board": "haaseduk1"
+}

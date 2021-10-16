@@ -1,0 +1,7 @@
+{
+  "mode": "1",
+  "baudrate": "1500000",
+  "comport": "/dev/cu.usbserial-AU03OT6G",
+  "token": "dummy",
+  "device": "dummy"
+}

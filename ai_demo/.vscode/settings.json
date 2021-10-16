@@ -1,0 +1,9 @@
+{
+    "haasStudio.name": "ai_demo",
+    "haasStudio.hardware.board": "haaseduk1",
+    "haasStudio.appType": "python",
+    "haasStudio.solutionName": "remote_speaker",
+    "haasStudio.projectDir": "/Users/cuishenpeng/Desktop/2_workspace/4_work_study/ai_demo",
+    "haasStudio.comPort": "/dev/cu.usbserial-AU03OT6G",
+    "haasStudio.hardware.baudrate": 1500000
+}
