@@ -15,7 +15,7 @@
 
 2. ai_demo「AI图片识别」
     
-    输入图片：test2.jpeg
+    输入图片：<a href="https://github.com/BugCui/haasStudy/blob/main/ai_demo/solutions/ai_demo/resource/test2.jpeg"> test2.jpeg </a>
 
     输出识别内容：laptop
     ```
