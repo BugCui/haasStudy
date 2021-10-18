@@ -43,7 +43,7 @@
 
     ② 表情识别
 
-    输入图片：
+    输入图片：<a href="https://github.com/BugCui/haasStudy/blob/main/ai_demo/solutions/ai_demo/resource/expression.png">expression.png</a>
 
     识别结果：happiness
 
@@ -69,7 +69,7 @@
 
     ③ 文字识别
 
-    输入图片：
+    输入图片：<a href="https://github.com/BugCui/haasStudy/blob/main/ai_demo/solutions/ai_demo/resource/font.png">font.png</a>
 
     识别结果：也 行。（aha，是姿势不对么~）
 
