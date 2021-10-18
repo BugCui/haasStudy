@@ -15,6 +15,8 @@
 
 2. ai_demo「AI图片识别」
     
+    ① 目标检测
+
     输入图片：<a href="https://github.com/BugCui/haasStudy/blob/main/ai_demo/solutions/ai_demo/resource/test2.jpeg"> test2.jpeg </a>
 
     输出识别内容：laptop
@@ -37,4 +39,30 @@
     [  62.101]<E>HAAS_ML_CLOUD type: laptop, Score: 0.6, x: 38, y: 70, w: 714, h: 734
 
     -----ml ucloud ObjectDet demo end-----
+    ```
+
+    ② 表情识别
+
+    输入图片：
+
+    输出识别表情：happiness
+
+    ```
+    -------------------Welcome HaasAI MicroPython--------------
+    -----ml ucloud RecognizeExpression demo start-----
+
+    expression:happiness # 识别表情
+    face probablility:0.999283
+    x:872453104
+    y:872453320
+    w:4
+    h:872453248
+    expression:happiness
+    [ 101.791]<E>HAAS_ML_CLOUD Recognize expression result:
+
+    [ 101.791]<E>HAAS_ML_CLOUD type: happiness, probability: 1.0
+
+    bytearray(b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+    -----ml ucloud RecognizeExpression demo end-----
+
     ```
