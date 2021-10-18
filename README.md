@@ -19,7 +19,7 @@
 
     输入图片：<a href="https://github.com/BugCui/haasStudy/blob/main/ai_demo/solutions/ai_demo/resource/test2.jpeg"> test2.jpeg </a>
 
-    输出识别内容：laptop
+    识别结果：laptop
     ```
     -------------------Welcome HaasAI MicroPython--------------------
     -----ml ucloud ObjectDet demo start-----
@@ -45,7 +45,7 @@
 
     输入图片：
 
-    输出识别表情：happiness
+    识别结果：happiness
 
     ```
     -------------------Welcome HaasAI MicroPython--------------
@@ -65,4 +65,57 @@
     bytearray(b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
     -----ml ucloud RecognizeExpression demo end-----
 
+    ```
+
+    ③ 文字识别
+
+    输入图片：
+
+    识别结果：也 行。（aha，是姿势不对么~）
+
+    ```
+    -------------------Welcome HaasAI MicroPython--------------------
+    -----ml ucloud RecognizeCharacter demo start-----
+  
+    results size: 3
+    0text: 也
+    0probability: 0.9
+    0text left: 492
+    0text angle: 0
+    0text top: 213
+    0text height: 84
+    0text: width:119
+    [ 216.423]<E>HAAS_ML_CLOUD text: 也
+
+    [ 216.423]<E>HAAS_ML_CLOUD probability: 0.9
+
+    [ 216.423]<E>HAAS_ML_CLOUD text area: left: 213, top: 492, weight: 119, height: 84
+
+    1text: 00
+    1probability: 0.91
+    1text left: 208
+    1text angle: 0
+    1text top: 397
+    1text height: 22
+    1text: width:25
+    [ 216.424]<E>HAAS_ML_CLOUD text: 00
+
+    [ 216.424]<E>HAAS_ML_CLOUD probability: 0.9
+
+    [ 216.424]<E>HAAS_ML_CLOUD text area: left: 397, top: 208, weight: 25, height: 22
+
+    2text: /行
+    2probability: 0.7
+    2text left: 251
+    2text angle: -3
+    2text top: 164
+    2text height: 297
+    2text: width:652
+    [ 216.425]<E>HAAS_ML_CLOUD text: /行
+
+    [ 216.425]<E>HAAS_ML_CLOUD probability: 0.7
+
+    [ 216.425]<E>HAAS_ML_CLOUD text area: left: 164, top: 251, weight: 652, height: 297
+
+    bytearray(b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\
     ```
