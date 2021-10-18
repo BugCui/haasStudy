@@ -7,6 +7,8 @@
 
 📱 [关于Haas](https://haas.iot.aliyun.com)
 
+📄 [官网教程](https://g.alicdn.com/HaaSAI/PythonDoc/demos/index.html#ii-ai)
+
 <br>
 
 1. remote_speaker「语音播报音响」
